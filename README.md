@@ -1,6 +1,6 @@
 # 📓 PROJEK BUKU TAMU 👥
 
-**Tugas Pemrograman Web: Membuat Aplikasi Buku Tamu Sederhana**
+**Tugas Pemrograman Web Membuat Website Buku Tamu Sederhana**
 ## ✅ Fitur Utama
 
 1. 🔐 Login dengan akun yang sudah tersimpan di database.  
